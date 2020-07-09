@@ -1,0 +1,35 @@
+.profile{
+    height: 200px;
+    width: 200px;
+    border-top-width: 10px;
+    border-radius: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.ashish{
+    font-family: "Montserrat";
+    width: 50%;
+    margin: 100px auto 100px auto 100px;
+    text-align: left;
+} 
+
+
+.name{
+    color: dodgerblue;
+}
+
+
+.intro{
+    text-align: left;
+    
+line-height: 2;
+}
+.top{
+background-color: rgb(37, 192, 219);
+text-align: center;
+font-family: "Montserrat";
+}
+.team{
+    padding: 5%;
+    font-size: 55px;
+}
